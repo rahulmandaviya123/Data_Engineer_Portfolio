@@ -25,12 +25,16 @@ The pipeline follows the **Medallion Architecture** pattern:
 ## 📂 Repository Structure
 
 DLT_Root/
-│
-├── bronze/ # Raw ingestion layer (landing data)
 
-├── silver/ # Cleansed and transformed datasets
-├── gold/ # Business-ready curated datasets
-├── notebooks/ # Databricks notebooks (.py/.ipynb)
-├── pipeline/ # Declarative pipeline YAML/JSON configs
-├── sample_data/ # Example data for testing
-└── docs/ # Documentation and architecture diagrams
+      ├── bronze/ # Raw ingestion layer (landing data)
+
+      ├── silver/ # Cleansed and transformed datasets
+      
+      ├── gold/ # Business-ready curated datasets
+      
+      ├── notebooks/ # Databricks notebooks (.py/.ipynb)
+       
+      ├── pipeline/ # Declarative pipeline YAML/JSON configs
+      
+      ├── sample_data/ # Example data for testing
+ 
