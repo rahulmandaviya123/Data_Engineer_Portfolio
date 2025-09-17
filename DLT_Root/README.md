@@ -22,6 +22,10 @@ The pipeline follows the **Medallion Architecture** pattern:
 
 ---
 
+## 🔄 Data Lineage (Pipeline Flow)
+
+![Data Lineage](./docs/Lineage.png)
+
 ## 📂 Repository Structure
 
 DLT_Root/
