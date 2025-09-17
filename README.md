@@ -1,4 +1,4 @@
-# 👨‍💻 Rahul Mandaviya – Data Engineering Portfolio
+# 👨‍💻 Rahul Mandaviya – Data Engineer Portfolio
 
 Welcome to my portfolio repository! 🚀  
 Here I showcase hands-on **Data Engineering and Analytics projects** that demonstrate my skills in Databricks, Delta Lake, SQL, Python, Power BI, and more.  
