@@ -27,6 +27,7 @@ The pipeline follows the **Medallion Architecture** pattern:
 DLT_Root/
 │
 ├── bronze/ # Raw ingestion layer (landing data)
+
 ├── silver/ # Cleansed and transformed datasets
 ├── gold/ # Business-ready curated datasets
 ├── notebooks/ # Databricks notebooks (.py/.ipynb)
