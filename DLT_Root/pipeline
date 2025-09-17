@@ -1,0 +1,15 @@
+id: faf30e1b-0250-49fe-b37a-a8e5d20f9e31
+pipeline_type: WORKSPACE
+name: DLT_Tutorial
+libraries:
+  - glob:
+      include: /Workspace/Users/rahulmandaviya1432@gmail.com/Declarative
+        Pipeline/DLT_Root/transformations_SorceCode/**
+schema: dlt_shcema
+continuous: false
+development: false
+photon: true
+channel: CURRENT
+catalog: dlt_rahul
+serverless: true
+root_path: /Workspace/Users/rahulmandaviya1432@gmail.com/Declarative Pipeline/DLT_Root
