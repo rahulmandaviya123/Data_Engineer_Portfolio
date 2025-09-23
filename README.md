@@ -16,7 +16,7 @@ It showcases:
 ## 📂 Projects
 1. [Project 01 - Uber Data Visualization](./project-01-uber-data-visualization)
 2. [Databricks Medallion Architecture Pipeline](./DLT_Root)
-3. (./DataEngineer_Project_Portfolio/README.md)
+3. [Databricks & Azure Data Engineering Project](./README.md)
 
 
 
